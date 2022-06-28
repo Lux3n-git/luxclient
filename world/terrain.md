@@ -22,7 +22,6 @@ Mobs:
     -Doubles Creeper drops  
     
 ### Blocks, entities and items  
-
     -Disables:
         -opening Ender chests
         -all vanilla XP sources (including mob drops, smelting and fishing) but XP bottles
@@ -34,6 +33,6 @@ Mobs:
     -End portal tiles are indestructible
     -Boats placed on land will break upon being used
     -Allows equipping a banner as a hat
-    -Sanitize sign length to 100 text row length[awkward]
+    -Sanitize sign length to 100 text row length
     -Water and lava above y 180 has limited propagation
     -Death and join announcements disabled
