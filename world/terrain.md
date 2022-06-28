@@ -21,6 +21,7 @@ Mobs:
     -Doubles Creeper drops
     
 ### Blocks, entities and items  
+
     -Disables:
         -opening Ender chests
         -all vanilla XP sources (including mob drops, smelting and fishing) but XP bottles
