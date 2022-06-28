@@ -11,14 +11,14 @@ y128 and sheer cliff faces. Biomes can also contain custom trees which are large
 ### Humbug tweaks
 Humbug changes vanilla functionality in many areas.
 Mobs:
-    -Disables:
-        -trading with villagers
-        -Endermen stealing blocks
-        -iron ingots from being dropped by mobs
-        -Wither explosions destroying blocks and Wither insta-break ability
-    -Sets Wither skull droprate to .4%
-    -Sets base movement speed of mounted horses to 0.3 (from .17 in vanilla)
-    -Doubles Creeper drops
+    -Disables:  
+        -trading with villagers  
+        -Endermen stealing blocks  
+        -iron ingots from being dropped by mobs  
+        -Wither explosions destroying blocks and Wither insta-break ability  
+    -Sets Wither skull droprate to .4%  
+    -Sets base movement speed of mounted horses to 0.3 (from .17 in vanilla)  
+    -Doubles Creeper drops  
     
 ### Blocks, entities and items  
 
