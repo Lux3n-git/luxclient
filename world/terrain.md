@@ -20,7 +20,7 @@ Mobs:
     -Sets base movement speed of mounted horses to 0.3 (from .17 in vanilla)
     -Doubles Creeper drops
     
-### Blocks, entities and items
+### Blocks, entities and items  
     -Disables:
         -opening Ender chests
         -all vanilla XP sources (including mob drops, smelting and fishing) but XP bottles
