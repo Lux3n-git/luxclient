@@ -1,7 +1,8 @@
 ### World generation
 
-The world has a set ammount of blocks in radius. Traveling beyond this radius is blocked by an invisible 
-and circular world border. Any attempt to travel beyond will result in being teleported back 
+The world has a set ammount of blocks in radius. Traveling beyond this radius is blocked by an invisible
+
+and circular world border. Any attempt to travel beyond will result in being teleported back  ![mapbluewhite](https://user-images.githubusercontent.com/35500599/176303164-34671b44-3243-4d76-bc1a-4c926ab41b20.png)
 into the radius at a seemingly unpredictable y-level. If a player tries to cross the world 
 border in a vehicle they will automatically exit the vehicle. Blocks may be placed outside of 
 the world border yet any pearls stored outside the world border will be freed upon server restart.
