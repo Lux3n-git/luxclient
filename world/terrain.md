@@ -8,7 +8,6 @@ border in a vehicle they will automatically exit the vehicle. Blocks may be plac
 the world border yet any pearls stored outside the world border will be freed upon server restart.
 Several non-vanilla biomes have been added. Many of these biomes have altitudes above 
 y128 and sheer cliff faces. Biomes can also contain custom trees which are larger then vanilla. 
-<img src="https://user-images.githubusercontent.com/35500599/176304053-d073e584-f39e-49ed-a79c-3303f4fc1f46.png" float="right" width="200px"/>
 
 ### Humbug tweaks
 Humbug changes vanilla functionality in many areas.
