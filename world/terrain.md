@@ -2,7 +2,7 @@
 
 The world has a set ammount of blocks in radius. Traveling beyond this radius is blocked by an invisible
 
-and circular world border. Any attempt to travel beyond will result in being teleported back <img src="https://user-images.githubusercontent.com/35500599/176304053-d073e584-f39e-49ed-a79c-3303f4fc1f46.png" width="200px"/>
+and circular world border. Any attempt to travel beyond will result in being teleported back <img src="https://user-images.githubusercontent.com/35500599/176304053-d073e584-f39e-49ed-a79c-3303f4fc1f46.png" float="right" width="200px"/>
 
 into the radius at a seemingly unpredictable y-level. If a player tries to cross the world 
 border in a vehicle they will automatically exit the vehicle. Blocks may be placed outside of 
