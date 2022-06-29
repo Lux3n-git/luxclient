@@ -1,4 +1,4 @@
-## Chat
+## &nChat
 
 Chat is range restricted to be local. Messages are only seen within a 1000 block radius from the sending player (plus an additional block in 
 range for each each block abovey=100). This range restriction can be bypassed by using chat groups or direct messages. Namelayer allows the 
