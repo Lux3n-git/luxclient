@@ -1,4 +1,4 @@
-## Block Limits
+## Block Limits  
 
 Limits the amount of lag causing blocks {source, config}
 
