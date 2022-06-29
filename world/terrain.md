@@ -1,3 +1,5 @@
+## Terrain
+
 ### World generation
 
 The world has a set ammount of blocks in radius. Traveling beyond this radius is blocked by an invisible
