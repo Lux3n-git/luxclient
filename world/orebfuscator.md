@@ -1,4 +1,4 @@
-## &nOrebfuscator   
+## &nOrebfuscator
 
 Orebfuscator (from ore obfuscator) prevents using X-ray to see blocks
 a normal player cannot. First, it hides useful blocks as stone when 
