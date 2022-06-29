@@ -1,11 +1,9 @@
-Chat is range restricted to be local. Messages are only seen within a 1000 
-block radius from the sending player (plus an additional block in range for 
-each each block above y=100). This range restriction can be bypassed by using 
-chat groups or direct messages.
+Chat is range restricted to be local. Messages are only seen within a 1000 block radius 
+from the sending player (plus an additional block in range for each each block above
+y=100). This range restriction can be bypassed by using chat groups or direct messages.
 
 Namelayer allows the creation of chat groups. Chat groups are managed with 
-Namelayer which includes functionality for inviting and removing players from 
-groups. 
+Namelayer which includes functionality for inviting and removing players from groups. 
 The first line is output caused by typing &l/g Circleblob. &r&f
 The second and third line display a message that was types as-is. 
 The fourth line, in yellow, is the output of typing &l/g&r&f. The fifth line was typed as-is.  
