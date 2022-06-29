@@ -23,17 +23,17 @@ and also in "normal" Extreme Hills).
 ### Diamond mining
 
 Diamonds spawn at the vanilla height, below layer Y=17. Unlike all other ores, diamonds will spawn in 
-HiddenOre veins. Finding a diamond thus indicates a cluster of nearby diamonds. Veins are randomly generated 
-using a Perlin noise. The vein itself is a disc rotated in 3d space. The diamond density in a vein is higher 
-near the center. A message will be displayed every time a diamond ore spawns.
+HiddenOre veins. Finding a diamond thus indicates a cluster of nearby diamonds. Veins are randomly 
+generated using a Perlin noise. The vein itself is a disc rotated in 3d space. The diamond density 
+in a vein is higher near the center. A message will be displayed every time a diamond ore spawns.
 
 ### Strategies
 
-Mining a long tunnel is a good way to find veins. If a player already possess resources, one of fastest ways 
-to mine is using a haste II beacon and efficiency V silk touch pickaxes. Cheaper diamond mining methods include 
-wjkroeker's method, one of the most space efficient. If a player has a minimap mod, it can be useful to waypoint 
-or otherwise mark diamonds to discern the shape and center of the vein.
+Mining a long tunnel is a good way to find veins. If a player already possess resources, one of 
+fastest ways to mine is using a haste II beacon and efficiency V silk touch pickaxes. Cheaper diamond 
+mining methods include wjkroeker's method, one of the most space efficient. If a player has a minimap 
+mod, it can be useful to waypoint or otherwise mark diamonds to discern the shape and center of the vein.
 
 ### Fossils
-Mining stone blocks has a random chance to drop a fossil. Fossils are a lored Prismarine Shard. They can be cracked 
-by using the "Ore Smelter" factory for random, albeit unlikely, treasure. 
+Mining stone blocks has a random chance to drop a fossil. Fossils are a lored Prismarine Shard. 
+They can be cracked by using the "Ore Smelter" factory for random, albeit unlikely, treasure. 
