@@ -17,7 +17,7 @@ The fourth line, in yellow, is the output of typing &l/g&r&f. The fifth line was
   &r&fChanges chat to private message with specified player. If [message] is included 
   it is sent to specified player.  
   
--&l/tell 	Alias: &l/message &l/msg &l/m &l/pm &l/e&r&f: Leaves active private message  
+-&l/tell &r&fAlias: &l/message &l/msg &l/m &l/pm &l/e&r&f: Leaves active private message  
   
 -&l/exit &r&fAlias: &l/e &l/g&r&f: Send any further chat messages to local chat 
   (within ~1000 blocks), leaving any active group chats.  
