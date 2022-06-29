@@ -1,4 +1,4 @@
-## OldEnchanting
+## &nOldEnchanting
 
 ### Acquiring Experience
 Experience is not dropped by any vanilla means (mobs, ores, smelting). Instead it 
