@@ -1,4 +1,4 @@
-## FactoryMod
+## &nFactoryMod
 
 Create a factory by placing a furnace, a crafting table and a chest (or trapped chest) 
 side by side. 
@@ -12,7 +12,7 @@ Hitting a factory component with a stick in hand is used to interact with the fa
   chest. Hit the chest with a stick to see the factory type and health.
 Complete the factory setup by placing exactly the ingredients required for a desired factory 
 in the chest. 
-Use the commands /fm and /fm [factory name] to see all factories and their recipes.
+Use the commands &l/fm &r&fand &l/fm [factory name] &r&fto see all factories and their recipes.
 
 ### Mechanics
 Factories have health which degrades over several months When the health reaches zero only 
@@ -29,7 +29,7 @@ initial factory setup creation cost.
   factory to automatically select any recipe it has the ingredients to run whenever it is activated.
   Be careful as some factories create an output in one recipe and take it as input in another recipe 
   meaning the two products cycle until charcoal runs out. The 'Open menu' setting symbolized by a 
-  painting opens a GUI equivalent to the /fm [factory name] command.
+  painting opens a GUI equivalent to the &l/fm [factory name] &r&fcommand.
   -If the chest becomes full during a factory run, the factory will stop. The only exception might 
   be printing presses which will continue to run and may waste materials in the process (Bug).
   -Redstone that activated the factory furnace will cause the factory to run
