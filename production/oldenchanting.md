@@ -19,9 +19,11 @@ items as input. Upgraded cauldron factories provide more efficient conversions.
 
 ### Experience Storage
 Experience exists in four forms: in a player's experience bar, as experience bottles,
-as Emeralds, and as Emerald blocks. All these can be converted into each other: crafting 
-9 experience bottles created 1 Emerald, 9 Emeralds make an Emerald block, and vice versa. 
-By clicking on an enchanting table while holding bottles you can turn all of your levels 
-into experience bottles. One bottle o' enchanting will give exactly 10 XP points. By right 
-clicking an enchantment table or anvil while holding emeralds, the emerald XP is transferred 
-directly to your player. 
+as Emeralds, and as Emerald blocks. All these can be converted into each other: 
+crafting 9 experience bottles created 1 Emerald, 9 Emeralds make an Emerald block,
+and vice versa. 
+By clicking on an enchanting table while holding bottles you can turn all of your 
+levels into experience bottles. One bottle o' enchanting will give exactly 10 XP 
+points. By right clicking an enchantment table or anvil while holding emeralds,
+the emerald XP is transferred directly to your player. 
+
