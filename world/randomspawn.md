@@ -1,4 +1,4 @@
-## RandomSpawn
+## &nRandomSpawn
 
 New players will spawn in a random city spawn point that has a player within 700 blocks.
 If no city spawn point has a player within 700 blocks, new players will spawn in the same 
