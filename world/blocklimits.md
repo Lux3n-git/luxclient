@@ -4,6 +4,8 @@ Limits the amount of lag causing blocks {source, config}
 
 Some blocks are limited on a per chunk basis to reduce lag. Trying to place beyond the limit is not possible.
 
+### Limit per chunk:  
+
 HOPPER 16
 
 PISTON_BASE 8
