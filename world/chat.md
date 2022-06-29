@@ -41,5 +41,5 @@ If you are trying to ignore a group's snitches, the use the command &l/jamute [g
 ### Namecolors  
 
 Players who donate $10 or more to the CivClassic Patreon have ability to change the color their name displays in chat and tab menu using the 
-command &l&l/namecolor. For $25 the color can be set as rainbow. Note not to confuse the grey colored names with the greyed out spectatornames,
+command &l&l/namecolor.&r&f For $25 the color can be set as rainbow. Note not to confuse the grey colored names with the greyed out spectatornames,
 which unlike namecolor can only be used by superfriends or admins. Note that as of August 2020, the namecolor feature is currently broken. 
