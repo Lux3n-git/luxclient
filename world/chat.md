@@ -13,7 +13,8 @@ creation of chat groups. Chat groups are managed with Namelayer which includes f
   &r&fChanges chat to private message with specified player. f [message] is included it is sent to specified player.  
   
 -&l/tell 
-  &r&fAlias: &l/message &l/msg &l/m &l/pm &l/e&r&f: Leaves active private message  
+  &r&fAlias: &l/message &l/msg &l/m &l/pm &l/e&r&f
+  Leaves active private message  
   
 -&l/exit 
   &r&fAlias: &l/e &l/g&r&f
