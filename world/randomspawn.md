@@ -1,3 +1,5 @@
+## RandomSpawn
+
 New players will spawn in a random city spawn point that has a player within 700 blocks.
 If no city spawn point has a player within 700 blocks, new players will spawn in the same 
 manner as existing players. Existing players (who have not set their spawn-point with a bed) 
