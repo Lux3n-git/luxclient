@@ -17,20 +17,17 @@
     of 1 compacted item. Crates are not returned.
 
 #### Cauldron factories  
-
     Experience cannot be gained through vanilla means and must be made in cauldron factories. 
     These create XP from large amounts of crops. The advanced cauldron factory takes and returns
     compacted materials.
 
 #### Printing press  
-
     A signed book can be turned into a printing plate. The printing plate can then be used in the 
     following recipes : 'Print Book' which makes multiple book copies (without appending 'copy of');
     'Print Note' which makes a readable pamphlet from the first page of a book; 'Print Secure Note'
     which prints a note and appends the printing plates unique serial number.
 
 #### Other  
-
     Additional factories with special outputs include the Bastion factory which creates lored bastion blocks. 
     A small number of factory recipes are in fact less efficient than vanilla. Smelt lapis into lapis blocks 
     in ore smelter gives slightly less output than using fortune III on lapis ore (avg 13.5 vs 14.3). 
