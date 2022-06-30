@@ -3,7 +3,7 @@ Some blocks cannot be reinforced. This includes blocks with unique properties su
 bedrock and portal blocks. Most plants cannot be reinforced. Finally liquids and entities 
 are also unreinforcable (they are not blocks). 
 
-Non reinforceable blocks                       Non reinforceable plants
+&lNon reinforceable blocks                       &lNon reinforceable plants
 
     -BEDROCK                                           -CROPS
 
