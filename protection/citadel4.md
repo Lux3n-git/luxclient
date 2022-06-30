@@ -5,7 +5,7 @@ are also unreinforcable (they are not blocks).
 
 Non reinforceable blocks                       Non reinforceable plants
 
-    -BEDROCK                                            -CROPS
+    -BEDROCK                                           -CROPS
 
     -END_GATEWAY                                    -CARROT
 
@@ -22,14 +22,14 @@ Non reinforceable blocks                       Non reinforceable plants
     -FIRE                                               -RED_ROSE
                                                         (Includes all single block tall flowers)                   
     -SNOW (only layers of snow,       
-    the full block can be reinforced)             -YELLOW_FLOWER
+    the full block can be reinforced)            -YELLOW_FLOWER
 
-    -ICE (only normal ice)                          -BROWN_MUSHROOM
+    -ICE (only normal ice)                           -BROWN_MUSHROOM
 
     -PORTAL                                        -RED_MUSHROOM
 
-    -CAKE_BLOCK                                     -SAPLING
+    -CAKE_BLOCK                                      -SAPLING
 
-    -WEB                                              -LONG GRASS
+    -WEB                                                -LONG GRASS
     
-                                                        -DEAD_BUSH
+                                                          -DEAD_BUSH
