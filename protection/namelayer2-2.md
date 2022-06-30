@@ -23,4 +23,5 @@
   Unlinks two groups from each other. [Unsupported]
   
 &l/nlun [CONFIRM] 	
-  Updates account name on the server to the one minecraft account currently has [Unsupported]
+  Updates account name on the server to the one 
+  minecraft account currently has [Unsupported]
