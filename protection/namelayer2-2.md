@@ -1,3 +1,6 @@
+&l/nlpp <group> <player> <playertype> 	
+  Promotes/Demotes a Player in a group
+
 &l/nlrg <group> 	
   Rejects an invitation to a group.
   
