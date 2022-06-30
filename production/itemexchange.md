@@ -21,9 +21,8 @@ Creating shop chests
 
     -Hold the item you want, in the quantity you would like, (For example, 5 diamonds) and 
     type /iec input. An exchange rule (lored stone button) will be created in your inventory.
-    -Hold the item you are selling, in the quantity you are selling for, (For example, one 
-    cow egg) and type /iec output. An exchange rule (lored stone button) will be created in 
-    your inventory
+    -Hold the item you are selling, in the quantity you are selling for, (For example, one cow egg) 
+    and type /iec output. An exchange rule (lored stone button) will be created in your inventory.
     -Place the two buttons in a chest (make sure to reinforce it!). If you left click the 
     chest it will now tell you the exchanges available.
 
@@ -36,22 +35,3 @@ Note: You can have multiple inputs for one output, or one input for multiple out
 one input rule of 5 diamonds and output rule of 1 cow egg, and a second output rule of 1 pig egg. 
 Second example, one input rule of 5 diamonds, and a second input rule for 9 iron blocks and one 
 output rule for 1 cow egg.
-
-### 2) Second way to create exchange rules:
-
-If you don't have access to the items you're buying/ selling there are other commands you can use.
-
-&l/iec input [item] [quantity]
-For example: /iec input diamond 5
-
-&l/iec output [item] [quantity]
-For example: /iec output sapling 10
-
-Note: The name of the item has to be the Minecraft data name. For example, dark_oak_sapling.
-
-### Editing exchange rules
-
-While holding an exchange, use the following command to change the quantity it trades:
-
-&l/ies amount [number]
-For example: /ies amount 5. This will change the exchange to trade 5 of whatever item 
