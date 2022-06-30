@@ -1,3 +1,5 @@
+### NameLayer Active Commands
+
 /nlcg <group> [password] 	
   Creates a group, optionally with password
   
@@ -30,6 +32,3 @@
   
 /nlmp <group> <add/remove> <PlayerType> <PermissionType>
   Modifies the permissions of a group.
-  
-/nlpp <group> <player> <playertype> 	
-  Promotes/Demotes a Player in a group
