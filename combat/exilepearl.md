@@ -1,9 +1,8 @@
 ## ExilePearl 
 
-Killing a player while having an Ender Pearl in your hotbar will imprison the killed player 
-and bind them to the item. The pearled player cannot be within 1000 blocks of their pearl if 
-the pearl is inside a container (such as a chest). A player can not be pearled twice. Trying 
-to pearl an exiled player will show the coordinates of their pearl.
+Killing a player while having an Ender Pearl in your hotbar will imprison the killed player and bind them to the item. 
+The pearled player cannot be within 1000 blocks of their pearl if the pearl is inside a container (such as a chest). 
+A player can not be pearled twice. Trying to pearl an exiled player will show the coordinates of their pearl.
 Exiled players cannot: 
     -Light fires
     -Use potions
@@ -21,10 +20,9 @@ damage other players with weapons, they may still damage them with fireworks, fa
 
 Prison Pearl
 
-Players whose pearl has been upgraded to a prison pearl are sent to the end and therefore are not 
-able to be sent back into the overworld. They will be permanently in the end. There are several 
-end portals throughout the map that allow people to visit the end, however, and non-pearled 
-players can return to the overworld.
+Players whose pearl has been upgraded to a prison pearl are sent to the end and therefore are not able to be sent back 
+into the overworld. They will be permanently in the end. There are several end portals throughout the map that allow 
+people to visit the end, however, and non-pearled players can return to the overworld.
 
 It costs 64 mana to upgrade to a prison pearl.
 
