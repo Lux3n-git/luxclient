@@ -1,7 +1,7 @@
 ## &nTradePlus
 
-TradePlus is a GUI based tradig plugin used for players to trade items without dropping items
-and is a fater way to exchange items.
+TradePlus is a GUI based trading plugin used for players to trade items without dropping items
+and a faster way to exchange items.
 
 Type &l/trade &f&rwithin 5 blocks of another player to open a trade GUI. 
 
