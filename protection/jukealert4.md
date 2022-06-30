@@ -1,4 +1,4 @@
-### JukeLaert Commands
+### JukeAlert Commands
 
 &l/ja
    Open snitch GUI
