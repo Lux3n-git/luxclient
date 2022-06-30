@@ -1,40 +1,40 @@
-LIST_PERMS 	
+&lLIST_PERMS 
   Can list the permissions of any PlayerType
-OPEN_GUI 	
+&lOPEN_GUI 
   Can open namelayer GUI for group
-BASTION_PEARL 	
+&lBASTION_PEARL
   Can pearl into bastion fields
-BASTION_ALLOW_EXILED 
+&lBASTION_ALLOW_EXILED
   Allows exiles inside bastion range
-MERGE 	
+&lMERGE
   Can merge group with another group they have MERGE permissions on
-DOORS 	
+&lDOORS
   Can open and close reinforced doors
-ADMINS 	
+&lADMINS
   Allow inviting admins and removing existing admins
-CLEAR_SNITCHLOG 	
+&lCLEAR_SNITCHLOG 	
   Can clear snitchlog with /jaclear
-SNITCH_NOTIFICATIONS 	
+&lSNITCH_NOTIFICATIONS 
   Can see chat messageswhen players trigger snitches
-JOIN_PASSWORD 	
+&lJOIN_PASSWORD
   Perm level given to members when they join with a password
-LINKING 	
+&lLINKING
   Linking to another group as supergroup or subgroup [Unsupported]
-OWNER 	
+&lOWNER
   Can invite new owners and remove existing owners
-DELETE 	
+&lDELETE
   Can delete group
-READ CHAT
+&lREAD CHAT
   Can read chat messages sent in group
-MODS 	
+&lMODS
   Can invite new owners and remove existing owners
-ACIDBLOCK 	
+&lACIDBLOCK
   Can place acidblocks reinforced to group (/ctacid)
-CROPS 	
+&lCROPS
   Can place and destroy crops
-UPGRADE_FACTORY 	
+&lUPGRADE_FACTORY
   Can upgrade factories
-CHESTS 	
+&lCHESTS
   Can use chests
-KIRA_MANAGE_CHANNEL 	
+&lKIRA_MANAGE_CHANNEL
   Can setup Kira relays on discord to relay group messages and alerts 
