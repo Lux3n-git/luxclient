@@ -34,3 +34,7 @@ CROPS
   Can place and destroy crops
 UPGRADE_FACTORY 	
   Can upgrade factories
+CHESTS 	
+  Can use chests
+KIRA_MANAGE_CHANNEL 	
+  Can setup Kira relays on discord to relay group messages and alerts 
