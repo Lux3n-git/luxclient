@@ -1,4 +1,5 @@
 ## &nNameLayer
+
 A Citadel reinforcement group manager. Allows the creation of groups in 
 Minecraft. From buildings to chat messages, one can selectivity restrict 
 or expand which players have access.
