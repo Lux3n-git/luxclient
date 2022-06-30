@@ -1,7 +1,7 @@
 ## &nTradePlus
 
-TradePlus is a GUI based trading plugin used for players to trade items without dropping items
-and a faster way to exchange items.
+TradePlus is a GUI based trading plugin used for players to trade items without
+dropping items and a faster way to exchange items.
 
 Type &l/trade &r&fwithin 5 blocks of another player to open a trade GUI. 
 
@@ -14,8 +14,8 @@ his side of the menu (right side). To put your items in the trade, drag the item
 into your side in the GUI (left side).
 
 Both you and your trading partner must accept the trade in order for the 
-trade to fully complete. To accept the trade, click the green box on the top left of the
-menu. 
+trade to fully complete. To accept the trade, click the green box on the top left 
+of the menu. 
 
-When both players click accept, there is a 10 second timer until the trade is complete. Within 
-that time, either player can cancel the trade.
+When both players click accept, there is a 10 second timer until the trade is complete. 
+Within that time, either player can cancel the trade.
