@@ -24,3 +24,9 @@
   
 &l/jatogglelevers <0,1> 	
    Enable/Disabled the lever output functionality 
+   
+### Tips
+   
+    -It is recommended to name snitches appropriately to locate snitches more easily. 
+        A good naming pattern can be [group name]<location>
+    -It is advised to configure a Kira relay to send snitch messages to a discord channel.
