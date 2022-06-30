@@ -1,13 +1,11 @@
-### Extra Information
-
-    -Tool durability will not go down when damaging a reinforced block
-    -Because a moment passes between block break animation and reinforced block 
-      reappearing it is possible to 'reach' behind reinforced block. The block will 
-      reappear before a player can fall or walk though, however
-    -It is possible to double reinforce a double chest by placing it while using /ctf
-    -Explosions will do one reinforcement damage to all blocks in blast range. This
-      only applies to blocks that the explosion would have been able to damage had they 
-      been unreinforced.
+-Tool durability will not go down when damaging a reinforced block
+-Because a moment passes between block break animation and reinforced block 
+    reappearing it is possible to 'reach' behind reinforced block. The block will 
+    reappear before a player can fall or walk though, however
+-It is possible to double reinforce a double chest by placing it while using /ctf
+-Explosions will do one reinforcement damage to all blocks in blast range. This
+    only applies to blocks that the explosion would have been able to damage had they 
+    been unreinforced.
     
 ### Acid blocks
 
