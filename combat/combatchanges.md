@@ -1,4 +1,4 @@
-## Combat Changes
+## &nCombat Changes
 
 CivClassic changes combat to be more similar to pre-1.8 combat mechanics.
 
