@@ -18,7 +18,7 @@ Exiled players cannot:
 However there are ways around some restrictions. For example, although exiled players cannot 
 damage other players with weapons, they may still damage them with fireworks, falling anvils and more.
 
-Prison Pearl
+### Prison Pearl
 
 Players whose pearl has been upgraded to a prison pearl are sent to the end and therefore are not able to be sent back 
 into the overworld. They will be permanently in the end. There are several end portals throughout the map that allow 
