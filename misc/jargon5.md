@@ -1,3 +1,8 @@
+    Skybridge: 
+        A bridge in the sky used to break bastions without having to break through the rest of the vault defenses so that 
+        attackers can focus on pearling the defenders and mining through the spike.
+    Skybunker: 
+        An obsidian bunker, usually above a vault, used to defend against skybridges.
     Spike: 
         A line through the obsidian pyramid at the center of a vault, diamond reinforced on a separate shared group, to allow 
         sharing access to the chest containing pearls.
