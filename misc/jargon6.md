@@ -1,35 +1,35 @@
 ### Conversation
 
-    Civcraft: 
+    &lCivcraft: 
         The original iterations of the Civ genre ran by ttk2, also referred to as Civcraft 1.0, Civcraft 2.0, CivTemp,
         and Civcraft 3.0.
-    Civball: 
+    &lCivball: 
         User-generated visual art, typically manifesting as online comics or single art pieces, where nations/civs are 
         personified as (typically) spherical personas decorated with their nation/civ's flag. Similar to Polandball 
         but the name is a variant adapted to this comunity.Squareblob and Metriximor are notable artists of civball art 
         in the civ community.
-    Channer: 
+    &lChanner: 
         A player originating from or preferring 4chan/... over Reddit to communicate.
-    Claim:  
+    &lClaim:  
         Either referring to a land claim (of a nation), or a demand for reparations from someone 
         (as in "Claims post"/"Post claims on me").
-    Commie:   
+    &lCommie:   
          A player in a communist nation or with strong communist preferences regarding government or economy.
-    Crayon Claim: 
+    &lCrayon Claim: 
         Excessively large land claim that is not enforced in-game, either by new nations out of poor judgement, 
         or by established nations for greed or provocation.
-    Delusional: 
+    &lDelusional: 
         A common accusation among people who accuse others, essentially an insult directly related to the common 
         definition of delusional
-    Dotposting (.): 
+    &lDotposting (.): 
         It is common to reply with a period when someone says something regrettable, edgy, or stupid.
-    EOTW: 
+    &lEOTW: 
         End of The World. Refers to the end of a Minecraft server.
-    F: 
+    &lF: 
         Press F to pay respects, usually used ironically.
-    Gank: 
+    &lGank: 
         Surprise attack, usually with an advantage on the attackers side, both in skill and numbers.
-    HCF: 
+    &lHCF: 
         Hard Core Factions, the gamemode of a popular PvP server whose members invaded Civcraft.
-    Hsm: 
+    &lHsm: 
         Septembrian slang for wholesome.
