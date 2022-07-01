@@ -23,11 +23,6 @@
     Rings: 
         Obsidian trenches, usually IRO but sometimes SRO, which surround a vault spike and are used to defend against 
         a ground-based assault.
-    Skybridge: 
-        A bridge in the sky used to break bastions without having to break through the rest of the vault defenses so that 
-        attackers can focus on pearling the defenders and mining through the spike.
-    Skybunker: 
-        An obsidian bunker, usually above a vault, used to defend against skybridges.
  
 
 
