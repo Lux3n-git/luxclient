@@ -6,7 +6,7 @@
         Double chest or single chest, respectively. Used in trade to specify big amounts of items. 1 dc means 54 stacks of items 
         (either compacted or regular), 1 sc means 27 stacks.
     DRO/IRO/SRO: 
-        Refers to diamond/iron/stone reinforced obsidian respectively. Used in secure structures usually for storage or defense.
+        Refers to diamond/iron/stone reinforced obsidian respectively. Used in structures usually for storage or defense.
     Dropchest: 
         A chest hidden in the stone layer far from civilization, to protect wealth from being raided. 
     ExilePearl/EP: 
