@@ -1,6 +1,4 @@
 ## &nJargon
-
-### Technical
     Acid blocking: 
         The act of purposefully reinforcing gold blocks to remove reinforced blocks, for example grief or derelict builds.
     Alt vault:
