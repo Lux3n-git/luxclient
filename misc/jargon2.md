@@ -10,19 +10,22 @@
         A lored enderpearl preventing its contained player from PvP, logging into alt accounts, entering bastion fields, and coming 
         closer than 1000m to the pearl.
     Exp/XP: 
-        Emeralds/-blocks or Bottles of Exp, used for enchanting, obtained only through Cauldron factories, can be converted into one another by crafting.
+        Emeralds/-blocks or Bottles of Exp, used for enchanting, obtained only through Cauldron factories, can be converted into one 
+        another by crafting.
     Factory: 
-        Special setup of chest, workbench, and furnace allowing efficient production of normal or special ("lored") items through the FactoryMod plugin.
+        Special setup of chest, workbench, and furnace allowing efficient production of normal or special ("lored") items through 
+        the FactoryMod plugin.
     Grief: 
         Destruction/placement of ugly blocks to deface a build or area, done to easily but effectively cause damage.
     Hiddenore: 
-        A plugin that randomly generates ores as you break stone blocks. The map had no ores when it was generated, to prevent x-ray and allow 
-        admins to rebalance ore distribution in the future.
+        A plugin that randomly generates ores as you break stone blocks. The map had no ores when it was generated, to prevent x-ray 
+        and allow admins to rebalance ore distribution in the future.
     i: 
         Iron ingots, used in trade to specify prices. 20i means 20 Iron Ingots.
     Library: 
         Room(s) or building(s) that allow for player written Book & Quill books to be "borrowed". Generally done via the use of shop chests, 
-        due to a lack of better options. This means that books in libraries are, effectively, bought, but can, depending on the library, also be sold back.
+        due to a lack of better options. This means that books in libraries are, effectively, bought, but can, depending on the library, 
+        also be sold back.
     Mana/Meme Mana/MM: 
         Virtual fuel for pearls, bound to a namelayer group. Can be obtained once a day by running /manaclaim, 
         yielding more mana per day if you claim it every day.
@@ -32,7 +35,3 @@
         A modification to enhance the Minecraft client program, for example adding a minimap, armor status, player radar, or to run bots.
     Obby bomb: 
         Covering a city in SRO, as a form of griefing.
-    Plugin: 
-        A modification on the server to allow custom mechanics like reinforcements, factories, random respawn locations, etc. without requiring 
-        changes to the Minecraft client.
-    
