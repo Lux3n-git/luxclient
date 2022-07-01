@@ -28,4 +28,5 @@
         A server helper that has some admin powers but unlike an admin can still play on the server, 
         usually involved in moderation of the civ community.
     Toxic: 
-        Somebody who really made the mindset of the community worse and spread poison via metagame behavior like doxxing and harassing players.
+        Somebody who really made the mindset of the community worse and spread poison via metagame behavior 
+        like doxxing and harassing players.
