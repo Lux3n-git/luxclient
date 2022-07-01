@@ -33,7 +33,3 @@
         Hard Core Factions, the gamemode of a popular PvP server whose members invaded Civcraft.
     Hsm: 
         Septembrian slang for wholesome.
-    IGN: 
-        In-Game Name, meaning the name a player goes by inside of Minecraft.
-    L/Taking an L: 
-        Someone made a mistake and got destroyed for it.
