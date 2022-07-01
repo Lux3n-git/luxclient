@@ -1,30 +1,30 @@
-&l/nlpp <group> <player> <playertype> 	
+&l/nlpp <group> <player> <playertype>
   Promotes/Demotes a Player in a group
 
-&l/nlrg <group> 	
+&l/nlrg <group>
   Rejects an invitation to a group.
   
-&l/nlubl <group> <player> 	
+&l/nlubl <group> <player>
   Removes a player from the blacklist for a group
   
-&l/nlrm <group> <member> 	
+&l/nlrm <group> <member>
   Removes a member from a group.
   
-&l/nlri <group> <player> 	
+&l/nlri <group> <player>
   Revokes an invite
   
-&l/nlsdg <group> 	
+&l/nlsdg <group>
   Sets or changes default group
   
-&l/nltaai 	
+&l/nltaai
   Toggles the auto-acceptance of invites
   
-&l/nltg <group> <player> 	
+&l/nltg <group> <player>
   Transfers a group to another owner
   
-&l/nlunlink </super group> 	
+&l/nlunlink </super group>
   Unlinks two groups from each other. [Unsupported]
   
-&l/nlun [CONFIRM] 	
+&l/nlun [CONFIRM]
   Updates account name on the server to the one 
   minecraft account currently has [Unsupported]
