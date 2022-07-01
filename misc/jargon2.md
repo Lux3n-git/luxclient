@@ -8,8 +8,7 @@
     DRO/IRO/SRO: 
         Refers to diamond/iron/stone reinforced obsidian respectively. Used in secure structures usually for storage or defense.
     Dropchest: 
-        A chest hidden in the stone layer far from civilization, to protect wealth from being raided. Can also be shared with 
-        another player to facilitate trading.
+        A chest hidden in the stone layer far from civilization, to protect wealth from being raided. 
     ExilePearl/EP: 
         A lored enderpearl preventing its contained player from PvP, logging into alt accounts, entering bastion fields, and coming 
         closer than 1000m to the pearl.
@@ -28,8 +27,7 @@
         Iron ingots, used in trade to specify prices. 20i means 20 Iron Ingots.
     Library: 
         Room(s) or building(s) that allow for player written Book & Quill books to be "borrowed". Generally done via the use of 
-        shop chests, due to a lack of better options. This means that books in libraries are, effectively, bought, but can, 
-        depending on the library, also be sold back.
+        shop chests, due to a lack of better options. 
     Mana/Meme Mana/MM: 
         Virtual fuel for pearls, bound to a namelayer group. Can be obtained once a day by running /manaclaim, 
         yielding more mana per day if you claim it every day.
