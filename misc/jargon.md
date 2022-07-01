@@ -33,5 +33,3 @@
         A Compacted stack, or 64x64 items. Used in trade to specify big amounts of items.
     Ci: 
         A Compacted item, or 64x1 items. Used in trade to specify big amounts of items.
-    d: 
-        Diamonds, used in trade to specify prices. 20d means 20 Diamonds.
