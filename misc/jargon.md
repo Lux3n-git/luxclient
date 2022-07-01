@@ -1,4 +1,6 @@
-## Jargon
+## &nJargon
+
+### Technical
     Acid blocking: 
         The act of purposefully reinforcing gold blocks to remove reinforced blocks, for example grief or derelict builds.
     Alt vault:
@@ -33,4 +35,3 @@
         A Compacted item, or 64x1 items. Used in trade to specify big amounts of items.
     d: 
         Diamonds, used in trade to specify prices. 20d means 20 Diamonds.
-    
