@@ -1,4 +1,4 @@
-## Brewery
+## &nBrewery
 
 Brewery is a plugin that allows players to make their own liquor. 
 Recipes typically vary across each server and may be kept secret by the
