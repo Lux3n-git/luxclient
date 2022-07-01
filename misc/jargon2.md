@@ -31,3 +31,6 @@
     Mana/Meme Mana/MM: 
         Virtual fuel for pearls, bound to a namelayer group. Can be obtained once a day by running /manaclaim, 
         yielding more mana per day if you claim it every day.
+    Plugin: 
+        A modification on the server to allow custom mechanics like reinforcements, factories, random respawn locations, etc. 
+        without requiring changes to the Minecraft client.  
