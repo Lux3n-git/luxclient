@@ -1,4 +1,4 @@
-## ExilePearl 
+## &nExilePearl 
 
 Killing a player while having an Ender Pearl in your hotbar will imprison the killed player and bind them to the item. 
 The pearled player cannot be within 1000 blocks of their pearl if the pearl is inside a container (such as a chest). 
