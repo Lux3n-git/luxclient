@@ -33,3 +33,5 @@
         or to run bots.
     Obby bomb: 
         Covering a city in SRO, as a form of griefing.
+    Stamina: 
+        Virtual fuel for pearls or certain factory recipes. Used on CivRealms.
