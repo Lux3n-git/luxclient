@@ -5,7 +5,8 @@
   Free an exile pearl
   
 /ep broadcast <group/player> 	
-  Broadcasts your pearl location to a group or another player
+  Broadcasts your pearl location to a group or 
+  another player
   
 /ep accept 	
   Accepts a pearl broadcast request
@@ -27,7 +28,7 @@
   (Currently nonfunctional)
   
 /suicide 	
-  Usable for exiled players only. Use for when a pearled player 
-  gets stuck (eg. in reinforced blocks that they cannot destroy 
-  because they are pearled). They player will be killed after 
-  180 seconds. 
+  Usable for exiled players only. Use for when a 
+  pearled player gets stuck (eg. in reinforced blocks 
+  that they cannot destroy because they are pearled). 
+  They player will be killed after 180 seconds. 
