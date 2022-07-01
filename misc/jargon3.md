@@ -1,4 +1,7 @@
-    POS: 
+   Plugin: 
+        A modification on the server to allow custom mechanics like reinforcements, factories, random respawn locations, etc. 
+        without requiring changes to the Minecraft client.   
+   POS: 
         "Pearl on sight", used to mark a player as a criminal or threat.
     PrisonPearl/PP: 
         A lored enderpearl binding its contained player to the End dimension.
