@@ -1,3 +1,7 @@
+    IGN: 
+        In-Game Name, meaning the name a player goes by inside of Minecraft.
+    L/Taking an L: 
+        Someone made a mistake and got destroyed for it.
     Mineman/eLegos/Civman: 
         Ironic terms referring to Minecraft or Civ specifically.
     Newfriend: 
