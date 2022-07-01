@@ -28,3 +28,8 @@
         A special lored sponge block which, when reinforced, protects a 21x21 square area from block placement and thrown 
         enderpearls from landing, unless the player is on the bastion's reinforcement group. Specifics may vary depending 
         on a servers config.
+    Mod: 
+        A modification to enhance the Minecraft client program, for example adding a minimap, armor status, player radar,
+        or to run bots.
+    Obby bomb: 
+        Covering a city in SRO, as a form of griefing.
