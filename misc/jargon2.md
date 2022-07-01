@@ -1,3 +1,5 @@
+    d: 
+        Diamonds, used in trade to specify prices. 20d means 20 Diamonds
     DC, SC: 
         Double chest or single chest, respectively. Used in trade to specify big amounts of items. 1 dc means 54 stacks of items 
         (either compacted or regular), 1 sc means 27 stacks.
@@ -31,8 +33,3 @@
         yielding more mana per day if you claim it every day.
     Stamina: 
         Virtual fuel for pearls or certain factory recipes. Used on CivRealms.
-    Mod: 
-        A modification to enhance the Minecraft client program, for example adding a minimap, armor status, player radar,
-        or to run bots.
-    Obby bomb: 
-        Covering a city in SRO, as a form of griefing.
