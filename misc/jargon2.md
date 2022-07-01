@@ -1,3 +1,5 @@
+    Ci: 
+        A Compacted item, or 64x1 items. Used in trade to specify big amounts of items.
     d: 
         Diamonds, used in trade to specify prices. 20d means 20 Diamonds
     DC, SC: 
@@ -31,5 +33,3 @@
     Mana/Meme Mana/MM: 
         Virtual fuel for pearls, bound to a namelayer group. Can be obtained once a day by running /manaclaim, 
         yielding more mana per day if you claim it every day.
-    Stamina: 
-        Virtual fuel for pearls or certain factory recipes. Used on CivRealms.
